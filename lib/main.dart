@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      // Uygulama ChatScreen sayfasından başlar
       home: const ChatScreen(),
     );
   }
