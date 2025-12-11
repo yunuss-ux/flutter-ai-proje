@@ -8,21 +8,20 @@
 **Ders:** Mobil Uygulamalar
 **Konu:** Flutter ve Cihaz İçi (On-Device) / Cloud Makine Öğrenmesi
 
-Bu proje, Flutter kullanılarak geliştirilmiş, yapay zeka destekli bir mobil uygulamadır. Projenin temel amacı, **[BURAYA PROJENİN AMACINI YAZ: Örn. Google Gemini API kullanarak metin üretme]** yeteneklerini mobil platforma entegre etmektir.
+Bu proje, Flutter kullanılarak geliştirilmiş, yapay zeka destekli bir mobil uygulamadır. Projenin temel amacı, **[AI Chatbot: Google Gemini API kullanarak metin üretme]** yeteneklerini mobil platforma entegre etmektir.
 
 ### 🔍 1. Araştırma ve Konu Derinliği
-Bu projede teknoloji olarak **[KULLANDIĞIN TEKNOLOJİYİ YAZ: Örn. Google Gemini API / TensorFlow Lite]** tercih edilmiştir.
+Bu projede teknoloji olarak **[Google Gemini API / TensorFlow Lite]** tercih edilmiştir.
 
 * **Teorik Altyapı:** Seçilen yapay zeka modeli, mobil cihazlarda [Örn: doğal dil işleme / görüntü işleme] yeteneği kazandırmak için kullanılmıştır. Sadece yüzeysel bir API çağrısı değil, verinin işlenmesi ve kullanıcıya sunulması süreçleri optimize edilmiştir.
-* **Neden Bu Teknoloji?:** [Örn: Gemini API'nin geniş dil desteği ve hızlı yanıt süresi nedeniyle tercih edilmiştir.]
+* **Neden Bu Teknoloji?:** [Gemini API'nin geniş dil desteği ve hızlı yanıt süresi nedeniyle tercih edilmiştir.]
 
 ---
 
 ### ⚙️ 2. Teknik Uygulama ve Fonksiyonellik
 Uygulama temel olarak şu yeteneklere sahiptir ve hatasız çalışmaktadır:
 
-* ✅ **AI Entegrasyonu:** [Örn: Kullanıcıdan alınan metni analiz eder ve akıllı yanıtlar üretir.]
-* ✅ **Kamera/Galeri Erişimi:** (Eğer kullandıysan) Cihaz donanımları ile tam uyumlu çalışır.
+* ✅ **AI Entegrasyonu:** [Kullanıcıdan alınan metni analiz eder ve akıllı yanıtlar üretir.]
 * ✅ **Hata Yönetimi:** İnternet kopması veya API hataları kullanıcıya uygun mesajlarla bildirilir.
 
 ---
@@ -30,7 +29,7 @@ Uygulama temel olarak şu yeteneklere sahiptir ve hatasız çalışmaktadır:
 ### 🏗️ 3. Kod Kalitesi ve Mimari
 Proje geliştirilirken **"Clean Code"** prensiplerine sadık kalınmış ve kodun okunabilirliği ön planda tutulmuştur.
 
-* **Mimari:** Projede **[Örn: MVVM veya Clean Architecture]** yapısı kullanılmıştır. İş mantığı (Business Logic) ve Arayüz (UI) birbirinden ayrılmıştır.
+* **Mimari:** Projede **[MVVM veya Clean Architecture]** yapısı kullanılmıştır. İş mantığı (Business Logic) ve Arayüz (UI) birbirinden ayrılmıştır.
 * **Dosya Yapısı:**
     * `lib/services`: API servis istekleri burada yönetilir.
     * `lib/screens`: Kullanıcı arayüzleri buradadır.
@@ -43,9 +42,6 @@ Arayüz estetik, tutarlı ve kullanıcı dostu olacak şekilde tasarlanmıştır
 
 * **Responsive Tasarım:** Uygulama farklı ekran boyutlarına uyum sağlar.
 * **Kullanıcı Deneyimi:** İşlemler sırasında kullanıcıya yükleniyor (loading) simgeleri gösterilerek akıcılık sağlanır.
-
-*(Buraya GitHub'a yüklediğin ekran görüntülerinin linkini koyabilirsin, yoksa bu parantezi sil)*
-`![Ekran Görüntüsü](screenshots/ornek.png)`
 
 ---
 
