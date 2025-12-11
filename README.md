@@ -53,4 +53,3 @@ Projeyi yerel ortamınızda çalıştırmak için:
 2.  Paketleri yükleyin: `flutter pub get`
 3.  Uygulamayı başlatın: `flutter run`
 
-*(Not: API Anahtarı gerekiyorsa `lib/constants.dart` içerisine kendi anahtarınızı giriniz.)*
